@@ -52,11 +52,179 @@ FILES = {
 }
 
 
-def read_tsv(name):
-    p = DATA / name
+def _read_readlevel_tsv(path):
+    """
+    Leitor robusto para os TSV read-level.
+
+    Alguns IDs originais do FASTQ podem conter caracteres que interferem
+    com a interpretação convencional de TSV pelo pandas. Como sabemos a
+    posição da coluna id_fastq, reconstruímos essa coluna sem descartar reads.
+    """
+
+    opener = gzip.open if str(path).endswith(".gz") else open
+
+    rows = []
+
+    with opener(
+        path,
+        "rt",
+        encoding="utf-8",
+        errors="replace",
+        newline="",
+    ) as fh:
+
+        header_line = fh.readline()
+
+        if not header_line:
+            return pd.DataFrame()
+
+        header = header_line.rstrip("\r\n").split("\t")
+
+        if "id_fastq" not in header:
+            raise ValueError(
+                f"Arquivo read-level sem coluna id_fastq: {path.name}"
+            )
+
+        expected_columns = len(header)
+
+        id_idx = header.index(
+            "id_fastq"
+        )
+
+        # Quantas colunas existem depois de id_fastq.
+        tail_count = (
+            expected_columns -
+            id_idx -
+            1
+        )
+
+        for line_number, raw_line in enumerate(
+            fh,
+            start=2,
+        ):
+
+            line = raw_line.rstrip(
+                "\r\n"
+            )
+
+            parts = line.split(
+                "\t"
+            )
+
+            # ----------------------------------------------------
+            # Caso normal
+            # ----------------------------------------------------
+
+            if len(parts) == expected_columns:
+
+                pass
+
+            # ----------------------------------------------------
+            # Caso com TAB dentro do id_fastq
+            #
+            # Reúne novamente os fragmentos pertencentes ao ID
+            # sem alterar as demais colunas.
+            # ----------------------------------------------------
+
+            elif len(parts) > expected_columns:
+
+                if tail_count > 0:
+
+                    id_parts = parts[
+                        id_idx:
+                        len(parts) - tail_count
+                    ]
+
+                    tail = parts[
+                        len(parts) - tail_count:
+                    ]
+
+                else:
+
+                    id_parts = parts[
+                        id_idx:
+                    ]
+
+                    tail = []
+
+                reconstructed_id = " ".join(
+                    id_parts
+                )
+
+                parts = (
+                    parts[:id_idx]
+                    +
+                    [reconstructed_id]
+                    +
+                    tail
+                )
+
+            # ----------------------------------------------------
+            # Menos colunas que o esperado indica realmente
+            # uma linha incompleta.
+            # ----------------------------------------------------
+
+            else:
+
+                raise ValueError(
+                    f"{path.name}: linha {line_number} possui "
+                    f"{len(parts)} colunas; eram esperadas "
+                    f"{expected_columns}."
+                )
+
+            if len(parts) != expected_columns:
+
+                raise ValueError(
+                    f"{path.name}: não foi possível reconstruir "
+                    f"a linha {line_number}. "
+                    f"Obtidas {len(parts)} colunas; "
+                    f"esperadas {expected_columns}."
+                )
+
+            # Limpa caracteres problemáticos somente do ID.
+            parts[id_idx] = (
+                parts[id_idx]
+                .replace('"', "'")
+                .replace("\r", " ")
+                .replace("\n", " ")
+                .strip()
+            )
+
+            rows.append(
+                parts
+            )
+
+    return pd.DataFrame(
+        rows,
+        columns=header,
+    )
+
+
+def read_tsv(filename):
+
+    p = DATA / filename
+
     if not p.exists():
         return pd.DataFrame()
-    return pd.read_csv(p, sep="\t", dtype=str, keep_default_na=False)
+
+    # Estes dois arquivos carregam IDs originais de FASTQ
+    # e usam o leitor robusto.
+    if filename in {
+        "pcoa_points_R.tsv.gz",
+        "read_orientation_R.tsv.gz",
+    }:
+
+        return _read_readlevel_tsv(
+            p
+        )
+
+    # Demais tabelas continuam usando o leitor convencional.
+    return pd.read_csv(
+        p,
+        sep="\t",
+        dtype=str,
+        keep_default_na=False,
+    )
 
 
 @st.cache_data(show_spinner=False)
