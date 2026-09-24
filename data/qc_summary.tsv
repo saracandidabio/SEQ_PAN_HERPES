@@ -1,0 +1,9 @@
+metric	value
+executions_total	221
+targets_valid	7
+target_execution_rows	1547
+executions_deduplicated	36
+executions_with_multitarget_reads	4
+executions_with_tied_best_AS	4
+amac_apal_ambiguous_executions	4
+amac_apal_two_haplotype_evidence_demonstrated	0

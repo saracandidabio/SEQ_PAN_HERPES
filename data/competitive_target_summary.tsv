@@ -1,0 +1,1548 @@
+execution	target_folder	target_label	reference_id	reference_origin	reads_with_reported_alignment	reads_unique_best_AS	reads_tied_best_AS_including_target	median_AS	median_identity	median_query_coverage
+Lib1barcode41	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode41	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode41	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode41	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode41	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	960	960	0	326.0	0.94845361	0.89174732
+Lib1barcode41	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode41	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode42	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode42	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode42	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode42	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode42	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	15	15	0	310	0.94482759	0.89451477
+Lib1barcode42	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode42	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	611	611	0	331	0.91150442	0.97787611
+Lib1barcode43	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode43	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode43	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode43	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode43	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	782	782	0	314.0	0.93838863	0.89867841
+Lib1barcode43	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode43	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	316	0.87606838	0.97854077
+Lib1barcode44	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode44	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode44	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode44	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode44	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	157	157	0	324	0.94871795	0.87111111
+Lib1barcode44	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode44	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode45	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode45	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode45	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode45	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode45	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	470	470	0	332.0	0.95215311	0.88444444
+Lib1barcode45	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode45	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode46	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode46	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode46	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode46	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode46	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	620	620	0	328.0	0.95012438	0.88787142
+Lib1barcode46	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode46	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode47	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode47	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode47	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode47	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode47	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	409	409	0	316	0.94258373	0.88646288
+Lib1barcode47	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode47	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode48	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode48	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode48	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode48	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode48	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	229	229	0	326	0.94258373	0.88938053
+Lib1barcode48	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode48	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode49	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode49	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode49	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode49	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode49	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	77	77	0	320	0.94623656	0.89041096
+Lib1barcode49	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode49	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode50	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode50	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode50	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode50	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode50	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	10	10	0	313.0	0.94749374	0.91407084
+Lib1barcode50	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode50	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	576	576	0	341.0	0.91684862	0.97777778
+Lib1barcode51	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode51	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode51	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode51	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode51	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	741	741	0	310	0.93838863	0.8974359
+Lib1barcode51	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode51	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	421	0.95982143	0.85823755
+Lib1barcode52	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode52	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode52	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode52	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode52	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	622	622	0	320.0	0.94946657	0.87074074
+Lib1barcode52	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode52	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode53	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode53	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode53	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode53	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode53	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1082	1082	0	330.0	0.95192197	0.88461853
+Lib1barcode53	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode53	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode54	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode54	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode54	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode54	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode54	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	801	801	0	318	0.94634146	0.88646288
+Lib1barcode54	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode54	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode55	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode55	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode55	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode55	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode55	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	416	416	0	316.0	0.94285714	0.88771552
+Lib1barcode55	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode55	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode56	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode56	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode56	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode56	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode56	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	374	374	0	324.0	0.94594562	0.8867097
+Lib1barcode56	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode56	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode57	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode57	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode57	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode57	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode57	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	2190	2190	0	330.0	0.95098039	0.89245002
+Lib1barcode57	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode57	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode58	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode58	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode58	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode58	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode58	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode58	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode58	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	446	446	0	341.5	0.91757011	0.9617473
+Lib1barcode59	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode59	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode59	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode59	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode59	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1543	1543	0	334	0.95287958	0.88646288
+Lib1barcode59	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode59	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode60	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode60	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode60	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode60	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode60	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	214	214	0	332.0	0.95165186	0.88939857
+Lib1barcode60	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode60	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode61	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode61	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode61	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode61	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode61	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1109	1109	0	312	0.93236715	0.89867841
+Lib1barcode61	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode61	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode62	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode62	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode62	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode62	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode62	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1207	1207	0	312	0.93292683	0.88942308
+Lib1barcode62	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode62	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode63	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode63	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode63	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode63	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode63	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1580	1580	0	348.0	0.95767196	0.88839286
+Lib1barcode63	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode63	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode64	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode64	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode64	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode64	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode64	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	383	383	0	330	0.95024876	0.88839286
+Lib1barcode64	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode64	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode65	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode65	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode65	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode65	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode65	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode65	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode65	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	972	972	0	345.0	0.92070485	0.96956522
+Lib1barcode66	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode66	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode66	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode66	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode66	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	572	572	0	344.0	0.95641621	0.88495575
+Lib1barcode66	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode66	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode67	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode67	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode67	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode67	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode67	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1336	1336	0	350.0	0.95979899	0.88793103
+Lib1barcode67	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode67	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode68	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode68	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode68	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode68	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode68	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	587	587	0	346	0.9569378	0.88571429
+Lib1barcode68	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode68	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode69	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode69	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode69	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode69	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode69	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode69	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode69	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode70	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode70	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode70	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode70	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode70	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	430	430	0	336.0	0.95169082	0.89663267
+Lib1barcode70	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode70	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode71	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode71	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode71	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode71	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode71	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode71	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode71	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode72	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode72	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode72	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode72	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode72	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode72	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode72	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	381	381	0	360	0.92241379	0.97797357
+Lib1barcode73	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode73	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode73	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode73	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode73	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode73	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode73	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib1barcode74	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib1barcode74	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib1barcode74	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib1barcode74	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib1barcode74	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	588	588	0	316.0	0.94258373	0.89309524
+Lib1barcode74	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib1barcode74	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode01	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode01	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode01	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode01	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode01	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	264	264	0	324.0	0.93779904	0.89867841
+Lib2barcode01	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode01	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	75	75	0	385	0.9339207	0.97835498
+Lib2barcode02	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode02	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode02	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode02	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode02	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode02	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode02	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode03	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode03	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode03	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode03	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode03	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	93	93	0	314	0.92822967	0.88793103
+Lib2barcode03	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode03	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode04	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode04	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode04	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode04	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode04	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	586	586	0	316.0	0.93333333	0.89978166
+Lib2barcode04	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode04	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode05	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode05	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode05	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode05	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode05	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode05	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode05	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode06	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode06	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode06	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode06	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode06	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	707	707	0	346	0.95714286	0.89823009
+Lib2barcode06	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode06	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode07	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode07	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode07	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode07	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode07	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	358	358	0	364.0	0.96650718	0.89754961
+Lib2barcode07	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode07	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode08	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode08	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode08	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode08	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode08	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode08	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode08	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode09	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode09	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode09	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode09	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode09	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	458	458	0	354.0	0.96181363	0.89929686
+Lib2barcode09	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode09	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode10	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode10	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode10	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode10	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode10	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	504	504	0	340.0	0.95121951	0.89861457
+Lib2barcode10	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode10	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode11	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode11	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode11	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode11	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode11	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode11	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode11	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode12	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode12	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode12	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode12	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode12	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode12	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode12	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode13	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode13	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode13	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode13	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode13	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode13	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode13	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	694	694	0	395.5	0.94310695	0.97835498
+Lib2barcode14	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode14	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode14	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode14	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode14	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode14	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode14	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	659	659	0	393	0.93886463	0.97835498
+Lib2barcode15	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	1	1	0	210	0.85641026	0.96391753
+Lib2barcode15	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode15	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode15	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode15	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode15	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode15	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	422	422	0	359.0	0.94298246	0.97777778
+Lib2barcode16	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode16	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode16	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode16	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode16	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode16	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode16	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode17	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode17	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode17	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode17	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode17	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	478	478	0	350.0	0.96212374	0.89890061
+Lib2barcode17	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode17	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode18	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode18	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode18	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode18	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode18	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	329	329	0	344	0.9569378	0.89956332
+Lib2barcode18	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode18	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode19	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode19	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode19	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode19	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode19	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	289	289	0	356	0.96190476	0.89956332
+Lib2barcode19	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode19	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode20	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode20	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode20	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode20	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode20	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	158	158	0	316.0	0.92840055	0.90437204
+Lib2barcode20	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode20	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode21	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode21	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode21	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode21	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode21	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	453	453	0	358	0.96208531	0.89867841
+Lib2barcode21	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode21	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode22	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode22	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode22	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode22	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode22	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	371	371	0	344	0.95675676	0.89823009
+Lib2barcode22	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode22	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode23	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode23	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode23	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode23	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode23	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	311	311	0	358	0.96551724	0.89823009
+Lib2barcode23	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode23	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode24	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode24	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode24	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode24	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode24	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	308	0.97590361	0.10964333
+Lib2barcode24	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode24	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode25	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode25	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode25	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode25	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode25	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	274	274	0	330.0	0.95215311	0.89956332
+Lib2barcode25	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode25	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode26	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode26	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode26	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode26	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode26	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	391	391	0	346	0.95754717	0.89823009
+Lib2barcode26	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode26	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode27	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode27	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode27	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode27	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode27	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	123	123	0	346	0.95609756	0.89099526
+Lib2barcode27	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode27	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode28	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode28	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode28	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode28	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode28	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	87	87	0	352	0.96585366	0.88695652
+Lib2barcode28	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode28	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode29	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode29	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode29	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode29	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode29	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode29	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode29	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode30	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode30	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode30	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode30	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode30	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	608	608	0	352.0	0.96181363	0.89912281
+Lib2barcode30	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode30	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode31	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode31	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode31	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode31	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode31	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	313	313	0	348	0.95897436	0.89956332
+Lib2barcode31	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode31	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode32	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode32	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode32	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode32	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode32	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	218	218	0	344.0	0.95672977	0.88695652
+Lib2barcode32	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode32	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode33	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode33	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode33	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode33	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode33	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode33	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode33	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode34	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode34	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode34	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode34	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode34	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	216	216	0	338.0	0.95832316	0.88695652
+Lib2barcode34	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode34	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode35	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode35	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode35	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode35	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode35	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode35	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode35	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode36	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode36	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode36	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode36	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode36	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode36	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode36	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode37	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode37	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode37	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode37	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode37	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	317	317	0	358	0.96172249	0.89090909
+Lib2barcode37	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode37	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	278	0.94011976	0.44204852
+Lib2barcode38	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode38	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode38	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode38	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode38	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode38	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode38	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode39	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode39	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode39	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode39	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode39	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode39	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode39	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode40	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode40	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode40	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode40	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode40	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	121	121	0	350	0.96062992	0.89867841
+Lib2barcode40	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode40	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode41	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode41	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode41	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode41	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode41	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode41	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode41	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode42	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode42	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode42	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode42	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode42	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode42	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode42	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode43	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode43	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode43	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode43	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode43	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	371	371	0	320	0.93719807	0.89956332
+Lib2barcode43	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode43	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode44	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode44	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode44	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode44	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode44	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode44	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode44	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode45	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode45	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode45	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode45	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode45	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	414	414	0	344.0	0.96144377	0.89912281
+Lib2barcode45	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode45	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	340	0.97222222	0.48509485
+Lib2barcode46	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode46	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode46	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode46	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode46	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	409	409	0	336	0.9569378	0.89956332
+Lib2barcode46	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode46	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	328	0.96132597	0.47368421
+Lib2barcode47	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode47	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode47	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode47	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode47	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	199	199	0	316	0.93719807	0.88744589
+Lib2barcode47	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode47	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode48	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode48	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode48	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode48	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode48	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	231	231	0	320	0.93085106	0.89956332
+Lib2barcode48	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode48	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode49	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode49	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode49	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode49	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode49	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode49	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode49	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode50	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode50	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode50	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode50	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode50	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	317	317	0	350	0.95857988	0.89956332
+Lib2barcode50	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode50	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode51	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode51	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode51	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode51	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode51	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	198	198	0	358.0	0.96650718	0.89912281
+Lib2barcode51	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode51	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	300	0.94219653	0.45698925
+Lib2barcode52	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode52	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode52	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode52	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode52	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	247	247	0	324	0.9408867	0.8908046
+Lib2barcode52	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode52	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode53	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode53	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode53	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode53	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode53	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode53	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode53	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	776	776	0	363.0	0.93033367	0.97816594
+Lib2barcode54	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode54	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode54	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode54	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode54	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	15	15	0	360	0.96907216	0.88596491
+Lib2barcode54	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode54	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode55	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode55	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode55	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode55	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode55	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	176	176	0	352.0	0.96153757	0.88596491
+Lib2barcode55	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode55	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode56	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode56	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode56	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode56	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode56	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	344	344	0	312.0	0.93103448	0.89035088
+Lib2barcode56	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode56	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode57	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode57	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode57	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode57	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode57	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	183	183	0	338	0.95145631	0.89912281
+Lib2barcode57	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode57	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode58	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode58	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode58	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode58	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode58	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode58	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode58	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode59	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode59	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode59	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode59	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode59	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode59	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode59	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode60	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode60	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode60	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode60	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode60	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode60	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode60	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode61	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode61	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode61	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode61	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode61	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode61	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode61	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode62	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode62	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode62	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode62	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode62	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode62	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode62	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode63	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode63	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode63	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode63	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode63	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode63	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode63	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode64	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode64	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode64	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode64	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode64	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	127	127	0	340	0.95260664	0.89867841
+Lib2barcode64	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode64	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode65	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode65	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode65	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode65	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode65	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	248	248	0	286.0	0.94202899	0.8867097
+Lib2barcode65	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode65	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode66	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode66	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode66	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode66	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode66	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode66	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode66	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode67	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode67	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode67	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode67	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode67	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	121	121	0	328	0.95098039	0.88695652
+Lib2barcode67	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode67	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode68	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode68	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode68	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode68	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode68	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode68	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode68	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode69	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode69	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode69	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode69	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode69	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode69	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode69	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode70	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode70	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode70	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode70	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode70	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	244	244	0	352.0	0.96078337	0.8929402
+Lib2barcode70	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode70	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode71	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode71	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode71	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode71	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode71	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	389	389	0	346	0.96059113	0.89912281
+Lib2barcode71	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode71	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode72	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode72	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode72	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode72	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode72	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	316	316	0	350.0	0.96039506	0.89867841
+Lib2barcode72	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode72	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode73	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	1	1	0	328	0.93203883	0.89956332
+Lib2barcode73	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode73	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode73	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode73	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	407	407	0	314	0.92822967	0.8951049
+Lib2barcode73	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode73	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode74	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode74	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode74	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode74	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode74	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode74	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode74	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode75	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode75	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode75	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode75	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode75	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	174	174	0	311.0	0.93137255	0.88764818
+Lib2barcode75	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode75	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	18	18	0	338.0	0.92412698	0.97347039
+Lib2barcode76	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode76	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode76	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	37	33	3	288	0.89767442	0.93777778
+Lib2barcode76	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	60	24	3	262.0	0.90053803	0.84478859
+Lib2barcode76	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode76	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode76	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode77	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode77	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode77	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode77	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode77	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	382	0.98029557	0.88646288
+Lib2barcode77	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode77	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode78	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode78	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode78	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode78	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode78	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode78	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode78	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode79	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode79	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode79	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode79	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode79	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	327	327	0	356	0.96208531	0.89912281
+Lib2barcode79	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode79	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	1	1	0	296	0.9197861	0.48
+Lib2barcode80	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode80	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode80	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode80	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode80	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode80	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode80	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode81	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode81	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode81	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode81	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode81	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode81	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	630	630	0	297.0	0.9421509	0.88123449
+Lib2barcode81	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode82	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode82	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode82	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	15	11	4	292	0.90610329	0.92380952
+Lib2barcode82	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	30	15	4	266.0	0.90435185	0.8387988
+Lib2barcode82	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode82	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode82	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode83	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode83	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode83	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode83	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode83	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode83	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode83	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode84	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode84	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode84	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode84	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode84	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode84	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode84	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode85	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode85	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode85	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode85	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode85	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	127	127	0	318	0.93301435	0.9
+Lib2barcode85	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode85	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode86	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode86	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode86	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode86	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode86	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	230	230	0	345.0	0.95933015	0.89953246
+Lib2barcode86	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode86	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode87	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode87	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode87	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode87	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode87	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	102	102	0	335.0	0.95085966	0.89158101
+Lib2barcode87	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode87	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode88	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode88	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode88	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode88	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode88	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode88	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode88	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode89	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode89	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode89	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode89	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode89	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	534	534	0	358.0	0.96514521	0.89890061
+Lib2barcode89	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode89	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode90	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode90	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode90	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode90	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode90	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	115	115	0	340	0.95180723	0.9004329
+Lib2barcode90	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode90	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode91	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode91	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode91	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode91	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode91	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	97	97	0	316	0.92890995	0.90128755
+Lib2barcode91	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode91	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode92	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode92	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode92	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode92	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode92	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode92	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode92	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode93	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode93	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode93	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode93	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode93	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode93	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode93	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode94	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode94	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode94	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode94	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode94	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode94	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode94	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib2barcode95	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	436	436	0	284.0	0.91496315	0.89823009
+Lib2barcode95	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	29	29	0	322	0.98843931	0.75877193
+Lib2barcode95	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode95	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode95	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode95	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode95	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	2	2	0	402.0	0.94283754	0.97844828
+Lib2barcode96	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode96	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib2barcode96	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib2barcode96	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib2barcode96	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib2barcode96	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib2barcode96	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode01	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode01	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode01	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode01	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode01	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	832	832	0	305.0	0.93452381	0.88646288
+Lib3barcode01	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode01	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode02	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode02	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode02	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode02	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode02	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	302	0.98125	0.14362657
+Lib3barcode02	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode02	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode03	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode03	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode03	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode03	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode03	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	384	384	0	337.0	0.96283939	0.86870834
+Lib3barcode03	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode03	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode09	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode09	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode09	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode09	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode09	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	629	629	0	346	0.96551724	0.88695652
+Lib3barcode09	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode09	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode10	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode10	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode10	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode10	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode10	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	784	784	0	314.0	0.93301435	0.88793103
+Lib3barcode10	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode10	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode11	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode11	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode11	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode11	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode11	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode11	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode11	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode12	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode12	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode12	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode12	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode12	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	306	306	0	345.0	0.9625	0.8850616
+Lib3barcode12	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode12	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode13	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode13	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode13	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode13	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode13	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode13	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	1	1	0	196	0.89855072	0.19571865
+Lib3barcode13	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode14	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode14	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode14	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode14	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode14	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	194	0.89032258	0.09271935
+Lib3barcode14	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode14	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode15	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode15	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode15	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	94	88	5	292.0	0.89791128	0.93777778
+Lib3barcode15	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	181	90	5	256	0.90147783	0.85462555
+Lib3barcode15	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	282	0.93258427	0.45430809
+Lib3barcode15	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode15	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode16	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode16	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode16	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode16	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode16	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode16	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode16	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode17	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode17	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode17	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode17	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode17	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	831	831	0	336	0.96059113	0.88596491
+Lib3barcode17	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode17	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode18	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode18	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode18	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode18	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode18	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	282	0.9625	0.11699779
+Lib3barcode18	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode18	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode19	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode19	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode19	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode19	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode19	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	294	0.975	0.4151436
+Lib3barcode19	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode19	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode20	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode20	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode20	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode20	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode20	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	132	132	0	310.0	0.95672977	0.86622807
+Lib3barcode20	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode20	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode21	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode21	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode21	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode21	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode21	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	196	196	0	310.0	0.96650718	0.6776883
+Lib3barcode21	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode21	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode22	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode22	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode22	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode22	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode22	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode22	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode22	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode23	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode23	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode23	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode23	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode23	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode23	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode23	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode24	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode24	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode24	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode24	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode24	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode24	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode24	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode25	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode25	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode25	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode25	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode25	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	135	135	0	340	0.96178344	0.86842105
+Lib3barcode25	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode25	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode26	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode26	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode26	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode26	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode26	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	481	481	0	308	0.93596059	0.88546256
+Lib3barcode26	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode26	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode27	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode27	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode27	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode27	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode27	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	736	736	0	344.0	0.96568627	0.88596491
+Lib3barcode27	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode27	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode28	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode28	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode28	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode28	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode28	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode28	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode28	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode29	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode29	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode29	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode29	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode29	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	3	3	0	228	0.93939394	0.2145749
+Lib3barcode29	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode29	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode30	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode30	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode30	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode30	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode30	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode30	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode30	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode31	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode31	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode31	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode31	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode31	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	122	122	0	324.0	0.95036946	0.8724923
+Lib3barcode31	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode31	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode32	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode32	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode32	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode32	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode32	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	237	237	0	348	0.96226415	0.87445887
+Lib3barcode32	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode32	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode33	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode33	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode33	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode33	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode33	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	453	453	0	292	0.93467337	0.8956044
+Lib3barcode33	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode33	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode34	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode34	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode34	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode34	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode34	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	395	395	0	302	0.94923858	0.88546256
+Lib3barcode34	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode34	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode35	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode35	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode35	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode35	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode35	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	410	410	0	315.0	0.94660194	0.89041353
+Lib3barcode35	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode35	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode36	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode36	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode36	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode36	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode36	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	466	466	0	344.0	0.96307657	0.88646288
+Lib3barcode36	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode36	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode37	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode37	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode37	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode37	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode37	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	600	600	0	354.0	0.96568627	0.88596491
+Lib3barcode37	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode37	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode38	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode38	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode38	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode38	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode38	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode38	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode38	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode39	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode39	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode39	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode39	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode39	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	357	357	0	324	0.95263158	0.88646288
+Lib3barcode39	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	1	1	0	202	0.8700565	0.18901099
+Lib3barcode39	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode40	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode40	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode40	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode40	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode40	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode40	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode40	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode41	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode41	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode41	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode41	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode41	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	256	0.94193548	0.40682415
+Lib3barcode41	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode41	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode42	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode42	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode42	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode42	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode42	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode42	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode42	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode43	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode43	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode43	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode43	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode43	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	330	0.93596059	0.23157895
+Lib3barcode43	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode43	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode44	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode44	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode44	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode44	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode44	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	270	0.95	0.4119171
+Lib3barcode44	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	1	1	0	324	0.95238095	0.25236167
+Lib3barcode44	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode45	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode45	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode45	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode45	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode45	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	716	716	0	337.0	0.959124	0.88830369
+Lib3barcode45	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode45	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode46	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode46	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode46	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode46	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode46	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode46	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode46	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode47	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode47	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode47	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode47	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode47	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	2	2	0	261.0	0.94433232	0.41438272
+Lib3barcode47	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode47	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode48	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode48	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode48	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode48	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode48	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	302	0.91836735	0.84
+Lib3barcode48	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode48	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode49	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode49	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode49	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode49	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode49	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode49	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode49	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode50	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode50	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode50	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode50	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode50	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	317	317	0	310	0.94285714	0.89041096
+Lib3barcode50	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode50	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode51	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode51	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode51	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode51	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode51	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	248	0.925	0.1843318
+Lib3barcode51	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode51	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode52	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode52	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode52	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode52	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode52	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	252	0.885	0.13614035
+Lib3barcode52	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode52	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode53	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode53	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode53	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode53	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode53	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	341	341	0	364	0.97044335	0.88646288
+Lib3barcode53	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode53	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode54	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode54	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode54	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode54	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode54	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	511	511	0	358	0.96585366	0.88646288
+Lib3barcode54	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode54	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode55	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode55	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode55	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode55	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode55	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	226	0.9	0.18111965
+Lib3barcode55	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode55	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode56	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode56	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode56	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode56	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode56	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode56	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode56	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode57	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode57	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode57	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode57	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode57	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	432	432	0	351.0	0.96453439	0.87982833
+Lib3barcode57	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode57	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode58	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode58	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode58	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode58	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode58	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	562	562	0	330.0	0.9569378	0.88546256
+Lib3barcode58	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode58	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode59	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode59	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode59	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode59	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode59	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode59	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode59	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode60	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode60	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode60	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode60	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode60	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	398	398	0	358.0	0.96650718	0.88646288
+Lib3barcode60	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode60	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode61	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode61	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode61	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode61	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode61	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	251	251	0	348	0.96482412	0.88596491
+Lib3barcode61	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode61	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode62	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode62	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode62	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode62	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode62	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	289	289	0	362	0.96721311	0.88646288
+Lib3barcode62	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode62	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode63	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode63	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode63	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode63	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode63	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	2	2	0	232.0	0.88532939	0.17423676
+Lib3barcode63	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode63	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode64	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode64	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode64	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode64	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode64	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	65	65	0	328	0.93779904	0.88596491
+Lib3barcode64	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode64	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode65	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode65	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode65	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode65	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode65	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	296	0.96407186	0.4600551
+Lib3barcode65	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode65	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode66	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode66	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode66	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode66	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode66	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	7	7	0	322	0.93203883	0.88596491
+Lib3barcode66	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode66	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode67	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode67	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode67	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode67	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode67	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	215	215	0	358	0.96568627	0.86818182
+Lib3barcode67	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode67	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode68	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode68	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode68	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode68	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode68	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode68	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode68	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode69	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode69	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode69	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode69	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode69	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode69	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode69	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode70	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode70	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode70	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode70	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode70	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	294	294	0	364.0	0.9694607	0.87308473
+Lib3barcode70	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode70	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode71	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode71	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode71	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode71	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode71	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	262	262	0	352.0	0.96172249	0.8867097
+Lib3barcode71	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	1	1	0	258	0.89473684	0.12941176
+Lib3barcode71	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode72	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode72	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode72	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode72	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode72	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	396	396	0	339.0	0.96163047	0.88646288
+Lib3barcode72	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	1	1	0	200	0.86111111	0.17820774
+Lib3barcode72	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode73	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode73	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode73	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode73	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode73	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	178	178	0	352.0	0.96541758	0.86636905
+Lib3barcode73	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode73	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode74	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode74	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode74	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode74	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode74	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode74	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode74	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode75	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode75	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode75	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode75	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode75	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	268	0.97902098	0.17228916
+Lib3barcode75	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode75	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode76	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode76	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode76	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode76	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode76	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	233	233	0	316	0.93203883	0.88646288
+Lib3barcode76	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode76	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode77	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode77	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode77	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode77	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode77	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode77	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode77	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode78	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode78	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode78	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode78	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode78	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	332	0.93170732	0.13009198
+Lib3barcode78	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode78	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode79	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode79	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode79	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode79	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode79	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode79	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode79	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode80	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode80	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode80	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	159	133	10	292	0.90291262	0.92920354
+Lib3barcode80	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	259	116	10	278	0.90862944	0.85840708
+Lib3barcode80	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode80	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode80	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode81	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode81	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode81	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode81	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode81	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode81	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	506	506	0	255.0	0.92723422	0.55747614
+Lib3barcode81	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode82	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode82	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode82	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode82	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode82	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	240	0.91925466	0.41884817
+Lib3barcode82	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode82	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode83	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode83	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode83	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode83	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode83	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode83	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode83	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode84	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode84	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode84	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode84	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode84	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	198	198	0	325.0	0.9625	0.87252686
+Lib3barcode84	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode84	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode85	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode85	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode85	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode85	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode85	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	423	423	0	314	0.93548387	0.88073394
+Lib3barcode85	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode85	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode86	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode86	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode86	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode86	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode86	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	2	2	0	224.0	0.88977072	0.30232161
+Lib3barcode86	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode86	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode87	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode87	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	82	82	0	289.0	0.97785224	0.42124008
+Lib3barcode87	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode87	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode87	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode87	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode87	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	23	23	0	292	0.91904762	0.49860724
+Lib3barcode88	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode88	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode88	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode88	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode88	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	1	1	0	340	0.94581281	0.28672316
+Lib3barcode88	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode88	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode89	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode89	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode89	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode89	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode89	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode89	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode89	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode90	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode90	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode90	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode90	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode90	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	246	246	0	336.0	0.96152423	0.88646288
+Lib3barcode90	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode90	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode91	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode91	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode91	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode91	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode91	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode91	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode91	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode92	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode92	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode92	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode92	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode92	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	153	153	0	320	0.95673077	0.86842105
+Lib3barcode92	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode92	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode93	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode93	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode93	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode93	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode93	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode93	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode93	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode94	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode94	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode94	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode94	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode94	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode94	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode94	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode95	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode95	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode95	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode95	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode95	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode95	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode95	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			
+Lib3barcode96	montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode96	montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	GENBANK_ACCESSION	0	0	0			
+Lib3barcode96	montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	GENBANK_ACCESSION	0	0	0			
+Lib3barcode96	montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	GENBANK_ACCESSION	0	0	0			
+Lib3barcode96	montagens_CALHV3	CALHV3	REF_f1a9ba29665a	GENBANK_ACCESSION	0	0	0			
+Lib3barcode96	montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	GENBANK_ACCESSION	0	0	0			
+Lib3barcode96	montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	INTERNAL_CONSENSUS	0	0	0			

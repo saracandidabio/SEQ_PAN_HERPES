@@ -1,0 +1,23 @@
+path	n_rows	n_columns	execution_column	execution_like_values	overlap_with_final_221	status
+/Users/navio01/Downloads/PanHerpes_dashboard_data/summary.tsv	9	2		0	0	NO_EXECUTION_OVERLAP
+/Users/navio01/Downloads/PanHerpes_dashboard_data/trimmed_fastq_execution_summary.tsv	221	8	execution	221	221	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/competitive_mapping/competitive_execution_summary.tsv	221	8	execution	221	221	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/competitive_mapping/competitive_target_summary.tsv	1547	11	execution	1547	221	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/fastq_cross_target_audit/fastq_execution_summary.tsv	1	13	execution	1	1	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/dashboard_final/dashboard_qc_summary.tsv	8	2		0	0	NO_EXECUTION_OVERLAP
+/Users/navio01/Downloads/PanHerpes_dashboard_data/fase2_read_sharing/target_mapping_summary.tsv	14	9	execution	14	1	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/fase2_read_sharing/haplotypes/Lib2barcode76/montagens_Alouatta_macconnelli_cytomegalovirus__VS__montagens_Alouatta_palliata_cytomegalovirus.diagnostic_site_allele_summary.tsv	51	13		0	0	NO_EXECUTION_OVERLAP
+/Users/navio01/Downloads/PanHerpes_dashboard_data/fase2_read_sharing/pair_diagnostics/Lib2barcode76/montagens_Alouatta_macconnelli_cytomegalovirus__VS__montagens_Alouatta_palliata_cytomegalovirus.sharing_summary.tsv	2	8	execution	2	1	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/dataset_valido/duplicate_header_audit/duplicate_header_execution_summary.tsv	36	10	execution	36	36	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/dataset_valido/review_diagnostics/review_summary.tsv	66	5	execution	66	33	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/dataset_valido/raw_trim_diagnostics/raw_to_trim_summary.tsv	231	24	execution	231	33	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/dataset_valido/competitive_inputs/dedup_execution_summary.tsv	221	8	execution	221	221	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/dataset_valido/multiset_duplicate_audit/fastq_multiset_execution_summary.tsv	221	19	execution	221	221	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/competitive_mapping/amac_apal_resolution/amac_apal_resolution_summary.tsv	4	24	execution	4	4	CANDIDATE
+/Users/navio01/Downloads/PanHerpes_dashboard_data/competitive_mapping/ambiguity_summary/execution_ambiguity_summary.tsv	221	10	execution	221	221	CANDIDATE
+/Users/navio01/Downloads/resultados_orthoherpes_dpol/blast_best_hits_all.tsv	158572	14	sample	158572	138	CANDIDATE
+/Users/navio01/Downloads/resultados_orthoherpes_dpol/blast_filtered_hits_all.tsv	1871145	14	sample	1871145	138	CANDIDATE
+/Users/navio01/Downloads/resultados_orthoherpes_dpol/herpes_summary.tsv	221	31	sample	221	221	SELECTED_SOURCE
+/Users/navio01/Downloads/resultados_orthoherpes_dpol/herpes_summary_before_evidence_fix.tsv	221	31	sample	221	221	CANDIDATE
+/Users/navio01/Downloads/resultados_orthoherpes_dpol/herpes_summary_before_taxonomy_fix.tsv	221	27	sample	221	221	CANDIDATE
+/Users/navio01/Downloads/resultados_orthoherpes_dpol/taxonomy_concordance_audit.tsv	221	11	sample	221	221	CANDIDATE

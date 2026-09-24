@@ -1,0 +1,8 @@
+target_folder	target_label	reference_id	reference_length_bp	reference_header_original	reference_origin	reference_md5
+montagem_LIB_3_HSV6	HSV6	REF_930e089dc61a	883	AY359407.1 Pan troglodytes herpesvirus 6 DNA polymerase gene, partial cds	GENBANK_ACCESSION	930e089dc61ab16dabbbd33825b81fbf
+montagem_LIB_3_HSV7	HSV7	REF_20b40d8dda57	174	U63466.1 Human herpesvirus 7 DNA polymerase gene, partial cds	GENBANK_ACCESSION	20b40d8dda57c3d70d0b07dae36c3446
+montagens_Alouatta_macconnelli_cytomegalovirus	Alouatta_macconnelli_CMV	REF_bf281488920c	1724	KU963227.1 Alouatta macconnelli cytomegalovirus isolate Ase046 DNA polymerase (pol) gene, partial cds	GENBANK_ACCESSION	bf281488920cf6856839aa1af6f20ca0
+montagens_Alouatta_palliata_cytomegalovirus	Alouatta_palliata_CMV	REF_c580909e6622	988	KU963232.1 Alouatta palliata cytomegalovirus isolate AlPal1 DNA polymerase (pol) gene, partial cds	GENBANK_ACCESSION	c580909e662282b9e932caef35bed57a
+montagens_CALHV3	CALHV3	REF_f1a9ba29665a	425	PQ362650.1 Callitrichine gammaherpesvirus 3 isolate CalHV-3_01_BR DNA polymerase gene, partial cds	GENBANK_ACCESSION	f1a9ba29665add38bfee0415562a2b60
+montagens_Cebus_albifrons_lymphocryptovirus_1	Cebus_albifrons_LCV1	REF_74f43c8abe03	469	AY139027.1 Cebus albifrons lymphocryptovirus 1 DNA polymerase (DPOL) gene, partial cds	GENBANK_ACCESSION	74f43c8abe032da274ec48f9515662fc
+montagens_consenso_H1	H1_internal_consensus	REF_378d31d8781e	227	Consensus_barcode13.fastq.gz.consenso_threshold_0.7_quality_15	INTERNAL_CONSENSUS	378d31d8781eb4b56fe927a6f3394906

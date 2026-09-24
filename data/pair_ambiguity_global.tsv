@@ -1,0 +1,2 @@
+target_a	target_b	executions_with_overlap	total_shared_reads	max_shared_reads_in_one_execution	max_jaccard	max_shared_fraction_a	max_shared_fraction_b	executions
+montagens_Alouatta_macconnelli_cytomegalovirus	montagens_Alouatta_palliata_cytomegalovirus	4	303	159	0.61666667	1.0	0.61666667	Lib2barcode76;Lib2barcode82;Lib3barcode15;Lib3barcode80
