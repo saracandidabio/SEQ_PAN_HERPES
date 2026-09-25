@@ -228,6 +228,124 @@ def read_tsv(filename):
     )
 
 
+def _read_readlevel_tsv(name):
+    """
+    Leitor robusto para arquivos read-level.
+
+    Alguns FASTQ headers armazenados em id_fastq contêm TABs internos.
+    Esses TABs não representam novas colunas biológicas.
+
+    Esta função reconstrói id_fastq sem descartar reads.
+    """
+
+    p = DATA / name
+
+    if not p.exists():
+        return pd.DataFrame()
+
+    opener = gzip.open if str(p).endswith(".gz") else open
+
+    with opener(
+        p,
+        "rt",
+        encoding="utf-8",
+        errors="replace",
+    ) as fh:
+
+        first = fh.readline()
+
+        if not first:
+            return pd.DataFrame()
+
+        header = (
+            first
+            .rstrip("\r\n")
+            .split("\t")
+        )
+
+        expected = len(header)
+
+        if "id_fastq" not in header:
+            return pd.read_csv(
+                p,
+                sep="\t",
+                dtype=str,
+                keep_default_na=False,
+            )
+
+        id_idx = header.index("id_fastq")
+
+        # quantidade de colunas que devem vir DEPOIS de id_fastq
+        tail_count = expected - id_idx - 1
+
+        rows = []
+
+        for line_number, raw in enumerate(
+            fh,
+            start=2,
+        ):
+
+            parts = (
+                raw
+                .rstrip("\r\n")
+                .split("\t")
+            )
+
+            # linha normal
+            if len(parts) == expected:
+                rows.append(parts)
+                continue
+
+            # TABs extras dentro de id_fastq
+            if len(parts) > expected:
+
+                if tail_count > 0:
+
+                    first_tail = (
+                        len(parts)
+                        - tail_count
+                    )
+
+                    id_parts = parts[
+                        id_idx:first_tail
+                    ]
+
+                    tail = parts[
+                        first_tail:
+                    ]
+
+                else:
+
+                    id_parts = parts[id_idx:]
+                    tail = []
+
+                fixed = (
+                    parts[:id_idx]
+                    +
+                    [" ".join(id_parts)]
+                    +
+                    tail
+                )
+
+                if len(fixed) == expected:
+                    rows.append(fixed)
+                    continue
+
+            # Não apagar linhas silenciosamente.
+            raise ValueError(
+                f"Falha ao reconstruir {p.name}, "
+                f"linha {line_number}: "
+                f"esperadas {expected} colunas; "
+                f"encontradas {len(parts)}."
+            )
+
+    return pd.DataFrame(
+        rows,
+        columns=header,
+        dtype=str,
+    )
+
+
 @st.cache_data(show_spinner=False)
 def load_small():
     keys = [
@@ -240,7 +358,162 @@ def load_small():
 
 @st.cache_data(show_spinner=False)
 def load_big(key):
+    if key in {
+        "pcoa_R",
+        "orientation_R",
+    }:
+        return _read_readlevel_tsv(FILES[key])
+
     return read_tsv(FILES[key])
+
+
+
+@st.cache_data(show_spinner=False)
+def load_readlevel_execution(key, execution):
+    """
+    Carrega somente uma execução de um arquivo read-level TSV/TSV.GZ.
+
+    Evita colocar todas as 64 mil+ reads no cache do Streamlit.
+    Também reconstrói id_fastq quando o header original contém TABs.
+    """
+
+    name = FILES[key]
+    p = DATA / name
+
+    if not p.exists():
+        return pd.DataFrame()
+
+    opener = gzip.open if str(p).endswith(".gz") else open
+
+    with opener(
+        p,
+        "rt",
+        encoding="utf-8",
+        errors="replace",
+    ) as fh:
+
+        first = fh.readline()
+
+        if not first:
+            return pd.DataFrame()
+
+        header = (
+            first
+            .rstrip("\r\n")
+            .split("\t")
+        )
+
+        expected = len(header)
+
+        if "execution" not in header:
+            raise ValueError(
+                f"{p.name}: coluna execution ausente."
+            )
+
+        execution_idx = header.index("execution")
+
+        id_idx = (
+            header.index("id_fastq")
+            if "id_fastq" in header
+            else None
+        )
+
+        tail_count = (
+            expected - id_idx - 1
+            if id_idx is not None
+            else 0
+        )
+
+        rows = []
+
+        for line_number, raw in enumerate(
+            fh,
+            start=2,
+        ):
+
+            parts = (
+                raw
+                .rstrip("\r\n")
+                .split("\t")
+            )
+
+            # -----------------------------------------------
+            # linha com número esperado de campos
+            # -----------------------------------------------
+
+            if len(parts) == expected:
+                fixed = parts
+
+            # -----------------------------------------------
+            # TABs extras dentro de id_fastq
+            # -----------------------------------------------
+
+            elif (
+                len(parts) > expected
+                and id_idx is not None
+            ):
+
+                if tail_count > 0:
+
+                    first_tail = (
+                        len(parts)
+                        - tail_count
+                    )
+
+                    id_parts = parts[
+                        id_idx:first_tail
+                    ]
+
+                    tail = parts[
+                        first_tail:
+                    ]
+
+                else:
+
+                    id_parts = parts[id_idx:]
+                    tail = []
+
+                fixed = (
+                    parts[:id_idx]
+                    +
+                    [" ".join(id_parts)]
+                    +
+                    tail
+                )
+
+                if len(fixed) != expected:
+                    raise ValueError(
+                        f"{p.name}, linha {line_number}: "
+                        f"reconstrução resultou em "
+                        f"{len(fixed)} colunas; "
+                        f"esperadas {expected}."
+                    )
+
+            else:
+
+                raise ValueError(
+                    f"{p.name}, linha {line_number}: "
+                    f"esperadas {expected} colunas; "
+                    f"encontradas {len(parts)}."
+                )
+
+            # -----------------------------------------------
+            # FILTRO DURANTE A LEITURA
+            # -----------------------------------------------
+
+            if fixed[execution_idx] == execution:
+                rows.append(fixed)
+
+    if not rows:
+        return pd.DataFrame(
+            columns=header
+        )
+
+    return pd.DataFrame(
+        rows,
+        columns=header,
+        dtype=str,
+    )
 
 
 @st.cache_data(show_spinner=False)
@@ -681,25 +954,47 @@ elif page == "Reads — PCoA & agrupamentos":
         "k=2, eig=TRUE, add=TRUE)`, a partir da divergência de Levenshtein normalizada."
     )
 
-    p = numeric(
-        load_big("pcoa_R"),
-        ["PCoA1", "PCoA2", "comprimento"],
-    )
-
-    if p.empty or div_summary.empty:
+    if div_summary.empty:
         st.warning("Execute `Rscript preparar_reads_metodo_R.R ...`.")
         st.stop()
 
-    executions = sorted(p["execution"].unique())
-    default = executions.index("Lib2barcode76") if "Lib2barcode76" in executions else 0
+    # A lista de execuções vem do resumo pequeno.
+    # O arquivo read-level NÃO é carregado inteiro.
+    executions = sorted(
+        div_summary["execution"].unique()
+    )
+
+    default = (
+        executions.index("Lib2barcode76")
+        if "Lib2barcode76" in executions
+        else 0
+    )
 
     execution = st.selectbox(
         "Execução",
         executions,
         index=default,
+        key="pcoa_execution",
     )
 
-    sub = p[p["execution"] == execution].copy()
+    # Carrega somente as reads da execução selecionada.
+    p = numeric(
+        load_readlevel_execution(
+            "pcoa_R",
+            execution,
+        ),
+        ["PCoA1", "PCoA2", "comprimento"],
+    )
+
+    if p.empty:
+        st.warning(
+            f"Não há pontos de PCoA disponíveis para {execution}."
+        )
+        st.stop()
+
+    # O arquivo já veio filtrado.
+    sub = p.copy()
+
     vr = div_summary[div_summary["execution"] == execution]
 
     if not vr.empty:

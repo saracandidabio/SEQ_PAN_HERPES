@@ -1,0 +1,2 @@
+method_version	mafft_version	mafft_backbone	mafft_fragments	distance	minimum_comparable_columns	pcoa
+PanHerpes_homology_PCoA_v4	v7.526 (2024/Apr/26)	--auto --nuc --adjustdirectionaccurately	--auto --nuc --adjustdirectionaccurately --addfragments	pairwise aligned divergence over overlapping homologous region; terminal gaps excluded; ambiguous bases excluded; internal gap-vs-base counted as difference	40	R cmdscale(as.dist(matrix), k=2, eig=TRUE, add=TRUE)
